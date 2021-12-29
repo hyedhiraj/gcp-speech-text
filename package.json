@@ -1,0 +1,30 @@
+{
+  "name": "node-js-speech-text-gcp",
+  "version": "0.2.0",
+  "description": "A sample Node.js app using GCP to convert Small Voice/Speech to Text/Transcript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^3.2.1"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyedhiraj/gcp-speech-text.git"
+  },
+  "keywords": [
+    "node",
+    "gcp",
+    "transcript",
+    "speech"
+  ],
+  "author": "Dhiraj Kumar Gupta",
+  "contributors": [
+    "hyedhiraj@gmail.com"
+  ],
+  "license": "AVAJ"
+}
